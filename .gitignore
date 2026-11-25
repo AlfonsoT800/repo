@@ -1,0 +1,15 @@
+# Token y secretos: NUNCA se suben
+token.txt
+.streamlit/secrets.toml
+.env
+
+# Generados al ejecutar
+salida_terminal.txt
+hallazgos.json
+grafica*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
